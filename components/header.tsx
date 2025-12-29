@@ -26,7 +26,7 @@ export function Header() {
             <div className="flex items-center justify-center bg-primary rounded-lg w-20 h-14 overflow-hidden">
               {/* Logo inside the box - put /public/goadmit-logo.png */}
               <img
-                src="/GOadmit.png"
+                src="/logo.jpeg"
                 alt="GOadmit logo"
                 className="object-contain p-1 tracking-normal leading-7 mx-0 py-0 w-full h-fit px-0"
               />
