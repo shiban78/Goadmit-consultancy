@@ -1,6 +1,7 @@
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { FileText, Compass, GraduationCap, Plane } from "lucide-react"
+export const revalidate = 0; // This forces the page to be dynamic
 
 const serviceDetails = [
   {
