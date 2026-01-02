@@ -144,7 +144,7 @@ export default function AdminPage() {
                 <label className="text-sm font-medium">Email</label>
                 <Input
                   type="email"
-                  placeholder="team.goadmit@gmail.com"
+                  placeholder="enter gmail"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   required
