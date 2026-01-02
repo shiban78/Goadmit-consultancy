@@ -163,7 +163,7 @@ export default function AdminPage() {
               <Button type="submit" className="w-full" disabled={loading}>
                 {loading ? "Logging in..." : "Login"}
               </Button>
-              <p className="text-xs text-muted-foreground text-center mt-4">Admin Email: team.goadmit@gmail.com</p>
+              <p className="text-xs text-muted-foreground text-center mt-4">Only Admin can access</p>
             </form>
           </CardContent>
         </Card>
