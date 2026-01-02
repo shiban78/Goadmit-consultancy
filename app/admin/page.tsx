@@ -11,7 +11,7 @@ import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Badge } from "@/components/ui/badge"
 import { CheckCircle2, Clock, Mail, Phone } from "lucide-react"
-
+// Triggering a new Vercel deployment
 interface Inquiry {
   _id: string
   name: string
