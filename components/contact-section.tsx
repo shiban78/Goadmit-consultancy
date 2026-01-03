@@ -99,6 +99,10 @@ export function ContactSection() {
                   <p className="text-sm text-muted-foreground">{t("Founder of GoAdmit")}</p>
                   <p className="text-lg font-semibold text-foreground">Shiban</p>
                 </div>
+                 <div>
+                  <p className="text-sm text-muted-foreground">{t("Co-Founder")}</p>
+                  <p className="text-lg font-semibold text-foreground">Hima</p>
+                </div>
               </div>
             </div>
           </div>
